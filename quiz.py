@@ -12,7 +12,7 @@ else:
     print("Wrong! The correct answer is Bern")
     print(f"{user} you have {score}")
 #Question 2
-answer = input("2. What does CPU stand for? ").lower()
+answer = input("2. What does CPU stand for? ")
 if "central processing unit" in answer:
     print("Correct!")
     score += 1
