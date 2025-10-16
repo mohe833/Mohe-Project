@@ -1,5 +1,6 @@
 # Mini Calculator by Mohammed Keyru
 # This program can add, subtract, multiply, and divide two numbers.
+print("Hello guys")
 def add(a, b):
    return a + b
 def subtract(a, b):
