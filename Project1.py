@@ -1,4 +1,4 @@
-print("ሰላም, how are guys doing?")
+print("ሰላም")
 print("አመሰግናለሁ!🙏🏻😁🔥 ሞሄ ነኝ✌️")
 print("The program is just for test")
 print("please to end the program use letter (q)")
